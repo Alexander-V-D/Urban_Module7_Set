@@ -15,8 +15,8 @@ fun main() {
     println("Пример работы решения задачи 2: $x2Set")
 
     //Задача 3
-    val collection = removeDuplicates(listOf(1, 2, 3, 4, 1, 2, 3, 4))
-    println("Пример работы решения задачи 3: $collection")
+    val set3 = removeDuplicates(listOf(1, 2, 3, 4, 1, 2, 3, 4))
+    println("Пример работы решения задачи 3: $set3")
 
     //Задача 4
     val array = arrayOf(0, 6, 0, 0, 2, 0, 0, 0, 1, 0, 5, 0)
